@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">unit_kt</string>
+    <string name="echo">面積換算</string>
+    <string name="input">cm</string>
+    <string name="X">X</string>
+    <string name="convert">換算</string>
+    <string name="clear">清除</string>
+</resources>
